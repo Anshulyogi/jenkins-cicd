@@ -54,14 +54,14 @@ class VetControllerTests {
 	private Vet james() {
 		Vet james = new Vet();
 		james.setFirstName("James");
-		james.setLastName("Carter");
+		james.setLastName("Carterrrrrrrrrrrrrrrr");
 		james.setId(1);
 		return james;
 	}
 
 	private Vet helen() {
 		Vet helen = new Vet();
-		helen.setFirstName("Helen");
+		helen.setFirstName("Helennnnnnnnnnn");
 		helen.setLastName("Leary");
 		helen.setId(2);
 		Specialty radiology = new Specialty();
